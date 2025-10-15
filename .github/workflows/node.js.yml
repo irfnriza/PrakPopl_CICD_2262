@@ -52,4 +52,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: irfnriza/praktikum-popl-nodejs
+          tags: irfnriza/praktikum-popl-nodejs:latest
