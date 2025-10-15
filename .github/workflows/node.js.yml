@@ -52,4 +52,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hidayatnurr/cicd-contoh:latest
+          tags: irfnriza/praktikum-popl-nodejs
